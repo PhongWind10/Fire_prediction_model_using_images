@@ -1,4 +1,6 @@
 gradio
-tensorflow-cpu
-pillow
+tensorflow
 numpy
+opencv-python-headless
+pandas
+matplotlib
