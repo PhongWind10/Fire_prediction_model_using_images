@@ -14,5 +14,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.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 }}
+          HF_TOKEN: ${{ secrets.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 }}
         run: git push https://PhongWindT1:$HF_TOKEN@huggingface.co/spaces/PhongWindT1/Fire_prediction_model_usingimages main
